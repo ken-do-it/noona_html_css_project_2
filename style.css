@@ -1,4 +1,6 @@
-.box {
+.
+/* 첫번째 챌린지 */
+box {
     border: 50px solid red;
     width: 200px;
     padding: 50px;
@@ -14,6 +16,10 @@
     border-color: blue;
   }
   
+
+
+
+  /* 두번째 챌린지 */
   .challenge2 {
     background-color: #fff;
     background-image:
